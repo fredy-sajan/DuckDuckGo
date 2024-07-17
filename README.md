@@ -1,0 +1,1 @@
+# DuckDuckGo Project initialized 
